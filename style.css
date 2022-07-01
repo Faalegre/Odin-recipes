@@ -1,10 +1,17 @@
-.titulo,
-.imagen,
-.linkeados {
+.title1,
+.image,
+.linked {
     text-align: center;
 }
 
-.titulo { 
+.title1 { 
     background-color: #1e3ad6;
-    color: rgba(228, 217, 217, 0.911);
+    color: #e4d9d9e8;
+    font-size: 24px;
 }
+
+
+.linked {
+    font-size: 18px;
+}
+
