@@ -1,0 +1,21 @@
+.Title1,
+.F,
+.subtitle {
+    background-color: orange;
+    text-align: center;
+    font-size: 24px;
+}
+
+.subtitle {
+    font-size: 22px;
+}
+
+.image { 
+    text-align: center;
+}
+
+.TT { 
+    background-color: #e6bb6d;
+    font-size: 18px;
+    font-family: "Times New Roman" Verdana, sans-serif;
+} 

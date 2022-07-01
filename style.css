@@ -1,0 +1,10 @@
+.titulo,
+.imagen,
+.linkeados {
+    text-align: center;
+}
+
+.titulo { 
+    background-color: #1e3ad6;
+    color: rgba(228, 217, 217, 0.911);
+}
